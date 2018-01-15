@@ -20,9 +20,13 @@ El objetivo es adaptar el código para que gran parte de estos parámetros pueda
 ## Uso de la quiniela
 Siguiendo el ejemplo encontrado en http://www.ligamanagervirtual.com/t22782-quiniela-j9:
 El concepto importante es que puedes escribir cualquier cosa en este hilo, siempre y cuando tras la palabra clave "QuinielaLMV.txt" aparezca la quiniela perfectamente rellenada.
+
 La primera vez que esta palabra aparece, el programa sabe que es el post de ejemplo y no hace nada.
+
 A partir de la segunda aparición en adelante, la quiniela debe rellenarse escribiendo en la siguiente línea el nick para la quiniela (NO PUEDE CONTENER ESPACIOS EN BLANCO Y ES SENSIBLE A MAYÚSCULAS).
+
 En las siguientes líneas (no importa que haya línas en blanco) deberá realizarse la apuesta (1/X/2), separada del equipo visitante por un espacio en blanco. Una vez se ha apostado en todos los partidos (15 en este ejemplo) se puede volver a escribir cualquier cosa.
+
 Tampoco puede haber espacios en blanco en los nombres de los equipos.
 
 ## Contacto
